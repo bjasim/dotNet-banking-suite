@@ -1,0 +1,15 @@
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.csproj.AssemblyReference.cache
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.csproj.CoreCompileInputs.cache
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\bin\Debug\cs-and-OOP.exe.config
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\bin\Debug\cs-and-OOP.exe
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\bin\Debug\cs-and-OOP.pdb
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.exe
+C:\Users\bakr2\OneDrive - Conestoga College\Virtual Studio\3rd Term\WP\a01-CS and OOP\a01---c-and-oop-bjasim\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.pdb
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\bin\Debug\cs-and-OOP.exe.config
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\bin\Debug\cs-and-OOP.exe
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\bin\Debug\cs-and-OOP.pdb
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.csproj.AssemblyReference.cache
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.csproj.CoreCompileInputs.cache
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.exe
+C:\Users\bakr2\OneDrive - Conestoga College\Prev Terms\3rd Term\WP\Assignments\A-01-C# and OOP\bjasim5050\cs-and-OOP\cs-and-OOP\cs-and-OOP\obj\Debug\cs-and-OOP.pdb
